@@ -1,0 +1,14 @@
+h1 {
+    color:blue;
+}
+#super-header {
+    color: blueviolet;
+}
+.special-header {
+    color: fuchsia;
+    font-size: 3em;
+} 
+.pancake-header {
+color: firebrick;
+font-size: 6em;
+}
