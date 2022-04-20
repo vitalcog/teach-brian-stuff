@@ -12,3 +12,11 @@ h1 {
 color: firebrick;
 font-size: 6em;
 }
+
+.nav-links {
+    display: flex;
+}
+
+.nav-links > a {
+    margin: 0 4px;
+}
